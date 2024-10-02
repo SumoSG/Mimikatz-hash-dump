@@ -1,1 +1,4 @@
 
+After obtaining NTLM and other hashes using Mimikatz, the next logical step is to perform further enumeration on various services that could leverage these credentials for deeper access into the network. Below is a chart outlining common ports to target and the corresponding commands/tools to use for enumeration and potential exploitation:
+
+
